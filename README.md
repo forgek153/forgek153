@@ -10,7 +10,7 @@ A data enthusiast specializing in the art of uncovering insights. With a focus o
 
 - 🌱 I’m currently learning **sklearn**
 
-- 👨‍💻 All of my projects are available at [TODO](TODO)
+- 👨‍💻 All of my projects are available [here](https://github.com/forgek153/Projects/blob/main/README.md)
 
 - 📫 How to reach me **forgek153@gmail.com**
 
