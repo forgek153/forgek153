@@ -2,11 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Forge</h1>
 <h3 align="center"> A Data Analyst Aspiring to Be a Data Scientist</h3>
+
 A data enthusiast specializing in the art of uncovering insights. With a focus on data analysis and reporting. I'm here to share the journey of discovering meaningful patterns. Join me as I navigate through the world of data in my portfolio.
 
-<h3 align="left">What I am working on:</h3>
+- Data retrieval, transformation, and analysis through SQL
+- Data manipulation, analysis, cleansing, and statistical tasks using Pandas and NumPy from Python
+- Interactive and insightful visualizations through PowerBI
 
-- 🔭 I’m currently working on [Danny Ma's 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/)
+
+
+<h3 align="left"> 📊 What I am working on:</h3>
 
 - 🌱 I’m currently learning **sklearn**
 
@@ -19,8 +24,7 @@ A data enthusiast specializing in the art of uncovering insights. With a focus o
 
 Language: SQL, Python
 
-Database: Google BigQuery, MySQL
-
 Visualization: PowerBI
+
 
 
