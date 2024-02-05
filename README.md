@@ -1,7 +1,6 @@
 ![Intro_Banner](https://github.com/forgek153/forgek153/assets/132448826/9ed6d55a-0885-4bc0-8086-8d225d0ad860)
 
 <h1 align="center">Hi 👋, I'm Forge</h1>
-<h3 align="center"> A Data Analyst Aspiring to Be a Data Scientist</h3>
 
 A data enthusiast specializing in the art of uncovering insights. With a focus on data analysis and reporting. I'm here to share the journey of discovering meaningful patterns. Join me as I navigate through the world of data in my portfolio.
 
